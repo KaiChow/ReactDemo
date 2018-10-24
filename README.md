@@ -3,7 +3,7 @@ React 学习入门基础
 express 模拟本地数据和服务
 
 ### 使用
- npm install
+ npm install   
 
  npm start 开始程序
 
@@ -16,5 +16,7 @@ express 模拟本地数据和服务
  3,react的生命周期
  
  4,axios的数据请求
+
+ 5,react里的无状态组件的使用
  
  以上都是各个技术点的基础使用！！！
